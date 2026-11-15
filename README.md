@@ -1,3 +1,5 @@
+![Instacart EDA Cover](instacart-eda-cover.png)
+
 # Instacart — Exploratory Data Analysis (EDA)
 
 ## Project Overview
