@@ -31,7 +31,9 @@ The project uses five datasets:
 | `aisles.csv` | Grocery aisle information |
 | `departments.csv` | Product department information |
 
-**Data source:** [Instacart Market Basket Analysis — Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis)
+**Data source:** Dataset provided as part of the Data Science and Artificial Intelligence MBA program at TripleTen Brasil.
+
+The dataset was adapted for educational purposes and used in this exploratory data analysis project.
 
 The dataset files are not included in this repository. Please obtain them from the original source before running the notebook.
 
